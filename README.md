@@ -1,3 +1,21 @@
+# Uploading Images
+This is a simple image upload project that is uploading images to the database. This will help us understand how forms work with images.
+I have built this using two backends, one with MERN stack and the other with PERN stack.
+
+# It is running on PERN stack by default
+To run it on the MERN stack, you'll need to make some changes in the code. Uncomment the part marked 'For Mongodb' and comment out 'For PostgreSQL.' This will enable it to run on the MERN stack.
+Folder component/ShowImages.js, component/Home.js
+
+# Technology
+# For Backend
+Mongodb, PostgreSQL
+NodeJS, ExpressJS
+Multer, Moment
+Mongoose, Prisma
+
+# For Frontend
+ReactJS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
